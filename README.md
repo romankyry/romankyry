@@ -1,16 +1,27 @@
-### Hi there 👋
+### Full Stack Developer
 
-<!--
-**romankyry/romankyry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend
+```
+Ruby on Rails, Shopify, Cold Fusion, ASP.NET MVC, ReactJS, Angular, AngularJS, NextJS, NuxtJS
+```
 
-Here are some ideas to get you started:
+##Backend
+```
+Ruby on Rails, ASP.NET Core, PHP, Python, APEX
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Mobile App Development
+```
+React Native, Swift, Kotlin, Java, Object-C, Flutter
+```
+
+##API Integration
+```
+Salesforce, Office365, Hubspot, Jira, Github, Gitlab, Pivotal Tracker
+```
+
+###Database
+```
+PostgreSQL, SQL Server, MySQL, MongoDB, Pinecone
+```
+

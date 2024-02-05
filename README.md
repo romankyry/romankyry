@@ -1,21 +1,21 @@
-### Full Stack Developer
+## Full Stack Developer
 
-## Frontend
+### Frontend
 ```
 Ruby on Rails, Shopify, Cold Fusion, ASP.NET MVC, ReactJS, Angular, AngularJS, NextJS, NuxtJS
 ```
 
-##Backend
+###Backend
 ```
 Ruby on Rails, ASP.NET Core, PHP, Python, APEX
 ```
 
-##Mobile App Development
+###Mobile App Development
 ```
 React Native, Swift, Kotlin, Java, Object-C, Flutter
 ```
 
-##API Integration
+###API Integration
 ```
 Salesforce, Office365, Hubspot, Jira, Github, Gitlab, Pivotal Tracker
 ```
